@@ -70,8 +70,6 @@ I enjoy learning new technologies and continuously improving my skills in variou
 
 </p>
 
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
