@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rafi%&Syeghani&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rafi%20Syeghani&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 # 👋 Hi, I'm Rafi Syeghani
