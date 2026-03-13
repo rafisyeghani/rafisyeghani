@@ -56,28 +56,6 @@ I enjoy learning new technologies and continuously improving my skills in variou
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafisyeghani&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisyeghani&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rafisyeghani&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
