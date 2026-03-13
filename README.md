@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rafi%20Ardiyanto&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rafi%Syeghani&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 # 👋 Hi, I'm Rafi Syeghani
@@ -71,10 +71,6 @@ I enjoy learning new technologies and continuously improving my skills in variou
 </p>
 
 ---
-
-<p align="center">
-✨ Always learning and building impactful digital solutions ✨
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
