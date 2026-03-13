@@ -60,9 +60,9 @@ I enjoy learning new technologies and continuously improving my skills in variou
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rafisyeghani&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisyeghani&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -72,7 +72,7 @@ I enjoy learning new technologies and continuously improving my skills in variou
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rafisyeghani&theme=tokyonight&hide_border=true"/>
 
 </p>
 
