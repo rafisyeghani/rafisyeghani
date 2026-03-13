@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rafi%20Ardiyanto&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-# 👋 Hi, I'm Rafi Ardiyanto
+# 👋 Hi, I'm Rafi Syeghani
 
 ## 🚀 About Me
 
@@ -82,11 +82,11 @@ I enjoy learning new technologies and continuously improving my skills in variou
 
 <p align="left">
 
-<a href="LINKEDIN">
+<a href="https://www.linkedin.com/in/rafi-syeghani-ardiyanto/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="INSTAGRAM">
+<a href="https://www.instagram.com/rafiiardiynto/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
